@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zomato:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-03T11:14:16.261557871Z"
+    description: A Helm chart for Kubernetes
+    digest: 969821033641e4254b10367a0324ee7a99684a70638c2d20c26713dbc5efe83b
+    name: zomato
+    type: application
+    urls:
+    - zomato-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-03T11:14:16.261010398Z"
